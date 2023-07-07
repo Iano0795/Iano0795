@@ -2,7 +2,8 @@
 - 👀 I’m interested in web penetration testing
 - 🌱 I’m currently learning frontend web development
 - 💞️ I’m looking to collaborate on few projects with my future team.
-- 📫 How to reach me ...
+- 📫 Reach me on twitter @C0d35m4sh3r_g1t and linkedin https://www.linkedin.com/in/ian-kipkorir-648bb21b9
+
 
 <!---
 Iano0795/Iano0795 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
