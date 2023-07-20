@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning frontend web development
 - 💞️ I’m looking to collaborate on few projects with my future team.
 - 📫 Reach me on twitter @C0d35m4sh3r_g1t and linkedin https://www.linkedin.com/in/ian-kipkorir-648bb21b9
+- "Fear is a state and the product of our imagination of the future and its consequences where the present is suppressed."
 
 
 <!---
